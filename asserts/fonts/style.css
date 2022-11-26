@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Coco Gothic';
+    src: local('Coco Gothic Fat'), local('Coco-Gothic-Fat'),
+        url('CocoGothic-Fat.woff2') format('woff2'),
+        url('CocoGothic-Fat.woff') format('woff'),
+        url('CocoGothic-Fat.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
